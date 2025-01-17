@@ -11,17 +11,15 @@ Como anteriormente se mencionó, estas son las variables que hemos establecido:
 2. **Apellido 1**: Vidal
 3. **Apellido 2**: Martinez
 4. **Edad**: 19
-5. 
+
 ### Operaciones
-```markdown
 1. Mostrar el perfil inicial del usuario.
 2. Actualizar la edad del usuario.
 3. Mostrar el perfil actualizado.
-```
 
 # Puesta en Funcionamiento
 
-### Recolección de Datos
+## Recolección de Datos
 Aquí se establecen los datos del usuario:
 ```javascript
 let nombre = "Maximo";
