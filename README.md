@@ -6,13 +6,12 @@ Este proyecto muestra cómo manejar y actualizar información básica de un usua
 Crear un perfil de usuario con datos básicos (nombre, primer apellido, segundo apellido y edad) y actualizar dinámicamente uno de ellos.
 
 # Variables Utilizadas
-```markdown
 Como anteriormente se mencionó, estas son las variables que hemos establecido:
 1. **Nombre**: Maximo
 2. **Apellido 1**: Vidal
 3. **Apellido 2**: Martinez
 4. **Edad**: 19
-```
+5. 
 ### Operaciones
 ```markdown
 1. Mostrar el perfil inicial del usuario.
