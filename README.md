@@ -1,5 +1,3 @@
-Claro, aquí tienes el contenido mejorado y con formato markdown listo para que lo agregues a tu `README.md`:
-
 ```markdown
 # Perfil de Usuario
 
