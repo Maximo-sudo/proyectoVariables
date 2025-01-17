@@ -1,7 +1,7 @@
 ```markdown
 # Perfil de Usuario
 
-![User Profile](https://via.placeholder.com/150)
+![User Profile]([https://via.placeholder.com/150](https://github.com/Maximo-sudo/proyectoVariables.git))
 
 Este proyecto muestra cómo manejar y actualizar información básica de un usuario utilizando variables en JavaScript.
 
