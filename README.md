@@ -34,28 +34,23 @@ let edad = 19;
 ### Impresión del Perfil Inicial
 Muestra en consola la información del primer perfil de usuario:
 ```javascript
-console.log(`${nombre} ${primerApellido} ${segundoApellido} tiene ${edad} años`);
+console.log(nombre + " " + primerApellido + " " + segundoApellido + " " +  "tiene" + " " +  edad + " " +  "años");
 ```
 
 ### Actualización de Datos
-Aquí se actualiza la edad del usuario:
+Aquí se actualiza los datos cambiandolos por otros:
 ```javascript
-edad = 20;  // Nueva edad
+nombre = "Juan carlos";
+primerApellido = "sanchez";
+segundoApellido = "el cano";
+edad = 29;
 ```
 
 ### Impresión del Perfil Actualizado
 Por último, se muestra la información del usuario actualizada:
 ```javascript
-console.log(`${nombre} ${primerApellido} ${segundoApellido} tiene ${edad} años`);
+console.log(nombre + " " + primerApellido + " " + segundoApellido + " " +  "tiene" + " " +  edad + " " +  "años");
 ```
-
-## Ejemplo Visual
-
-![Updating User Profile](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-## Repositorio
-Puedes encontrar el código fuente de este proyecto en el siguiente repositorio de GitHub:
-[Perfil de Usuario en JavaScript](https://github.com/tu-usuario/perfil-de-usuario-js)
 
 ### Contribuciones
 Si deseas contribuir a este proyecto, por favor sigue las siguientes instrucciones:
@@ -64,9 +59,3 @@ Si deseas contribuir a este proyecto, por favor sigue las siguientes instruccion
 3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva característica'`).
 4. Sube tus cambios (`git push origin feature/nueva-caracteristica`).
 5. Crea un nuevo Pull Request.
-
-### Licencia
-Este proyecto está bajo la licencia MIT. Para más información, consulta el archivo [LICENSE](https://github.com/tu-usuario/perfil-de-usuario-js/blob/main/LICENSE).
-```
-
-Copia y pega este contenido en tu archivo `README.md`. Si necesitas reemplazar los enlaces de imágenes o el enlace del repositorio con los reales, asegúrate de hacerlo antes de guardar el archivo.
