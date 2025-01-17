@@ -1,15 +1,12 @@
 
-## Perfil de Usuario
-```markdown
+# Perfil de Usuario
 ![User Profile]([https://via.placeholder.com/150](https://github.com/Maximo-sudo/proyectoVariables.git))
-
 Este proyecto muestra cómo manejar y actualizar información básica de un usuario utilizando variables en JavaScript.
-```
-## Objetivo
-```markdown
+
+# Objetivo
 Crear un perfil de usuario con datos básicos (nombre, primer apellido, segundo apellido y edad) y actualizar dinámicamente uno de ellos.
-```
-### Variables Utilizadas
+
+# Variables Utilizadas
 ```markdown
 Como anteriormente se mencionó, estas son las variables que hemos establecido:
 1. **Nombre**: Maximo
@@ -18,11 +15,13 @@ Como anteriormente se mencionó, estas son las variables que hemos establecido:
 4. **Edad**: 19
 ```
 ### Operaciones
+```markdown
 1. Mostrar el perfil inicial del usuario.
 2. Actualizar la edad del usuario.
 3. Mostrar el perfil actualizado.
+```
 
-## Puesta en Funcionamiento
+# Puesta en Funcionamiento
 
 ### Recolección de Datos
 Aquí se establecen los datos del usuario:
@@ -55,9 +54,11 @@ console.log(nombre + " " + primerApellido + " " + segundoApellido + " " +  "tien
 ```
 
 ### Contribuciones
+```markdown
 Si deseas contribuir a este proyecto, por favor sigue las siguientes instrucciones:
 1. Realiza un fork del repositorio.
 2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
 3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva característica'`).
 4. Sube tus cambios (`git push origin feature/nueva-caracteristica`).
 5. Crea un nuevo Pull Request.
+```
