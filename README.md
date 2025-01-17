@@ -1,20 +1,22 @@
-```markdown
-# Perfil de Usuario
 
+## Perfil de Usuario
+```markdown
 ![User Profile]([https://via.placeholder.com/150](https://github.com/Maximo-sudo/proyectoVariables.git))
 
 Este proyecto muestra cómo manejar y actualizar información básica de un usuario utilizando variables en JavaScript.
-
+```
 ## Objetivo
+```markdown
 Crear un perfil de usuario con datos básicos (nombre, primer apellido, segundo apellido y edad) y actualizar dinámicamente uno de ellos.
-
+```
 ### Variables Utilizadas
+```markdown
 Como anteriormente se mencionó, estas son las variables que hemos establecido:
 1. **Nombre**: Maximo
 2. **Apellido 1**: Vidal
 3. **Apellido 2**: Martinez
 4. **Edad**: 19
-
+```
 ### Operaciones
 1. Mostrar el perfil inicial del usuario.
 2. Actualizar la edad del usuario.
